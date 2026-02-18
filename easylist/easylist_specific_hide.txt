@@ -7558,6 +7558,7 @@ firstpost.com##.taboola-div
 indianexpress.com##.taboola-parent
 israelnationalnews.com##.taboola-top
 news18.com##.taboolaWrap
+ndtv.com##[class^="ad-art"]
 ndtv.com##[class^="ads_"]
 ndtv.com##div:has(> [id^="adslot"])
 weather.com##div[id*="Taboola-sidebar"]
